@@ -1,4 +1,3 @@
-HoroscopeAPI
-============
+This API is written for Java developers to grab daily astrological contents.
+A NetBeans Project
 
-Astrological content for Java developers
